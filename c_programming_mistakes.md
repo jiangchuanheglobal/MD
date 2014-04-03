@@ -27,5 +27,5 @@ error
 
 Acknowledgement
 -----------------------------------
-A [linked phrase][id]
-[id]: http://example.com/ "Title"
+A [http://www.andromeda.com/people/ddyer/topten.html][id]
+[id]: http://www.andromeda.com/people/ddyer/topten.html "Title"
